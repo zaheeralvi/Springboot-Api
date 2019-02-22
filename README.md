@@ -5,3 +5,8 @@
 
 
 /user/id [PUT,DELETE]
+
+# variable
+id
+Name
+Address
