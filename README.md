@@ -7,6 +7,6 @@
 /user/id [PUT,DELETE]
 
 # variable
-id
-Name
+id,
+Name,
 Address
